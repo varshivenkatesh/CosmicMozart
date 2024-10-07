@@ -47,7 +47,7 @@ Run the Python file [PainoConverter.py](PainoConverter.py) after uploading your 
 
 @maimunzaif (Maimun Zaif)
 
-@Torrey268 (Torrey Diaz)
+@Torrey268 (Torrey Dias)
 
 
 ## License
