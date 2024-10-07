@@ -26,7 +26,7 @@ Make sure you have Python installed on your machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/MAXIMUSSCORP/CosmicMozart
-   cd your-repo-name
+   cd CosmicMozart
 2. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
@@ -47,7 +47,7 @@ Run the Python file [PainoConverter.py](PainoConverter.py) after uploading your 
 
 @maimunzaif (Maimun Zaif)
 
-Torrey Diaz
+@Torrey268 (Torrey Dias)
 
 
 ## License
